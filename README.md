@@ -21,3 +21,9 @@ mvn clean package
 # maven-shade-plugin で executable な fatJAR ができる
 java -jar target/nasa1-1.0-SNAPSHOT.jar
 ```
+
+# メモ
+
+このなかから選ぶなら
+[Maven Repository: org.apache.httpcomponents.client5 » httpclient5](https://mvnrepository.com/artifact/org.apache.httpcomponents.client5/httpclient5)
+がいいかなあ。
