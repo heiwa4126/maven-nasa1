@@ -1,0 +1,2 @@
+#!/bin/sh -ue
+mvn exec:java -Dexec.cleanupDaemonThreads=false
