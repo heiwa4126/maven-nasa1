@@ -13,11 +13,11 @@ public class App
         IOException, InterruptedException, ExecutionException
     {
         System.out.println("-------------------- start" );
-        // JavaHttpURLConnectionDemo.run();
+        //JavaHttpURLConnectionDemo.run();
         // JavaHttpClientDemo.run();
-        // ApacheHttpClientDemo.run();
+        ApacheHttpClientDemo.run();
         // OkHttpDemo.run();
-        RetrofitDemo.run();
+        //RetrofitDemo.run();
 
         System.out.println("-------------------- end" );
     }
